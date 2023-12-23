@@ -39,6 +39,8 @@ I'm always eager to learn and stay updated with the latest technologies. Current
 
 You can view my projects [Here](https://github.com/Vipin-Sheoran).
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipin-Sheoran&layout=compact)
+
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
 
 Happy coding! 🚀
